@@ -1,7 +1,7 @@
 # Searching and Sorting Strings 
 ___
 
-This program uses the three basic algorithms of Sorting (#### *Bubble*, #### *Insertion*, #### *Selection*) 
+This program uses the three basic algorithms of Sorting (*Bubble*, *Insertion*, *Selection*) 
 It takes a list of strings. The last string is the search string. It sorts the list and searches for the search string
 
 ---
@@ -21,36 +21,36 @@ It should output the original strings (unordered list), location of the search s
 
 #### *Sample Input*
 
-* 7
-* Watermelon
-* banana
-* Apple
-* Cherry
-* dog
-* dogs and cats
-* Durian
-* banana
+7  
+Watermelon  
+banana  
+Apple  
+Cherry  
+dog  
+dogs and cats  
+Durian  
+banana  
 
 
 #### *Sample Output*
 
-* Watermelon
-* banana
-* Apple
-* Cherry
-* dog
-* dogs and cats
-* Durian
+Watermelon  
+banana  
+Apple  
+Cherry  
+dog  
+dogs and cats  
+Durian  
 
 banana is at index 1.
 
-* Apple
-* Cherry
-* Durian
-* Watermelon
-* banana
-* dog
-* dogs and cats
+Apple  
+Cherry  
+Durian  
+Watermelon  
+banana  
+dog  
+dogs and cats  
 
 banana is at index 4.
 
